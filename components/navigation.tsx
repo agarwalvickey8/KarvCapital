@@ -44,7 +44,7 @@ export function Navigation() {
       <div className="container mx-auto px-4">
         <div className="flex h-16 items-center justify-between">
           <Link href="/" className="flex items-center space-x-2">
-            <Image src="/images/karv-header.png" alt="Karv Capital" width={120} height={40} className="h-10 w-auto" />
+            <Image src="/images/karv_header.png" alt="Karv Capital" width={120} height={40} className="h-10 w-auto" />
           </Link>
 
           {/* Desktop Navigation */}

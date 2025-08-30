@@ -11,7 +11,7 @@ export function Footer() {
           <div className="md:col-span-2">
             <div className="flex items-center space-x-2 mb-4">
               <Image
-                src="/images/karv-footer.png"
+                src="/images/karv_footer.png"
                 alt="Karv Capital"
                 width={120}
                 height={40}
