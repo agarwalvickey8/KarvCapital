@@ -63,7 +63,7 @@ export function SIPCalculator() {
   const presetAmounts = [5000, 10000, 25000]
 
   const openWhatsApp = () => {
-    window.open("https://wa.me/917062336926", "_blank")
+    window.open("https://wa.me/917597376926", "_blank")
   }
 
   return (

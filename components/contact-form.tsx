@@ -229,7 +229,7 @@ export function ContactForm() {
                     <Mail className="h-4 w-4 md:h-5 md:w-5 text-secondary flex-shrink-0" />
                     <div>
                       <p className="font-semibold text-primary text-sm md:text-base">Email</p>
-                      <p className="text-muted-foreground text-xs md:text-sm">info@karvcapital.com</p>
+                      <p className="text-muted-foreground text-xs md:text-sm">karvcapital@gmail.com</p>
                     </div>
                   </div>
 
@@ -237,7 +237,7 @@ export function ContactForm() {
                     <Phone className="h-4 w-4 md:h-5 md:w-5 text-secondary flex-shrink-0" />
                     <div>
                       <p className="font-semibold text-primary text-sm md:text-base">Phone</p>
-                      <p className="text-muted-foreground text-xs md:text-sm">+91 98765 43210</p>
+                      <p className="text-muted-foreground text-xs md:text-sm">+91 75973 76926</p>
                     </div>
                   </div>
 
@@ -245,8 +245,7 @@ export function ContactForm() {
                     <Clock className="h-4 w-4 md:h-5 md:w-5 text-secondary flex-shrink-0 mt-0.5" />
                     <div>
                       <p className="font-semibold text-primary text-sm md:text-base">Office Hours</p>
-                      <p className="text-muted-foreground text-xs md:text-sm">Mon - Fri: 9:00 AM - 6:00 PM</p>
-                      <p className="text-muted-foreground text-xs md:text-sm">Sat: 10:00 AM - 2:00 PM</p>
+                      <p className="text-muted-foreground text-xs md:text-sm">Mon - Sat: 10:00 AM - 7:00 PM</p>
                     </div>
                   </div>
 
@@ -254,7 +253,7 @@ export function ContactForm() {
                     <MapPin className="h-4 w-4 md:h-5 md:w-5 text-secondary flex-shrink-0 mt-0.5" />
                     <div>
                       <p className="font-semibold text-primary text-sm md:text-base">Address</p>
-                      <p className="text-muted-foreground text-xs md:text-sm">Business District, Mumbai</p>
+                      <p className="text-muted-foreground text-xs md:text-sm">Karv Capital, Near Nayara Petrol Pump, Nawalgarh Road, Sikar, Rajasthan</p>
                     </div>
                   </div>
                 </div>

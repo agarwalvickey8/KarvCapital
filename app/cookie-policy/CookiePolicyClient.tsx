@@ -152,7 +152,7 @@ export default function CookiePolicyClient() {
                 <br />
                 Email: karvcapital@gmail.com
                 <br />
-                Phone: +91 7062336926
+                Phone: +91 7597376926
               </p>
             </div>
           </section>

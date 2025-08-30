@@ -23,7 +23,7 @@ import {
 
 export default function HomePage() {
   const openWhatsApp = () => {
-    window.open("https://wa.me/917062336926", "_blank")
+    window.open("https://wa.me/917597376926", "_blank")
   }
 
   const scrollToServices = () => {
