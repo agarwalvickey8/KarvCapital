@@ -33,8 +33,12 @@ export const metadata: Metadata = {
     "tax efficient investing",
     "goal based planning",
     "Mumbai financial advisor",
+    "Karv Capital",
+    "SIP calculator",
+    "mutual funds Rajasthan"
+
   ].join(", "),
-  authors: [{ name: "Karv Capital", url: "https://karvcapital.com" }],
+  authors: [{ name: "Karv Capital", url: "https://karvcapital.in" }],
   creator: "Karv Capital",
   publisher: "Karv Capital",
   robots: {
@@ -51,7 +55,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "en_IN",
-    url: "https://karvcapital.com",
+    url: "https://karvcapital.in",
     siteName: "Karv Capital",
     title: "Karv Capital - Smart Wealth Management for Your Future",
     description:
@@ -76,7 +80,7 @@ export const metadata: Metadata = {
     google: "google-site-verification-code",
   },
   alternates: {
-    canonical: "https://karvcapital.com",
+    canonical: "https://karvcapital.in",
   },
 }
 
@@ -87,7 +91,7 @@ const jsonLd = {
   description:
     "Smart wealth management for your future through goal-based plans, transparent advice, and disciplined investing.",
   url: "https://karvcapital.com",
-  logo: "https://karvcapital.com/logo.png",
+  logo: "https://karvcapital.in/images/karv_header.png",
   contactPoint: {
     "@type": "ContactPoint",
     telephone: "+91-98765-43210",
@@ -107,7 +111,7 @@ const jsonLd = {
   ],
   founder: {
     "@type": "Person",
-    name: "Karv Capital Team",
+    name: "Vickey Agarwal",
   },
   foundingDate: "2019",
   numberOfEmployees: "10-50",
